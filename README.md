@@ -6,7 +6,8 @@ TODO:
 mkdir Software
 mkdir Projects
 sudo apt-get install git
-sudo apt-get install sbt```
+sudo apt-get install sbt
+```
 
 * install java
 * install mvn
