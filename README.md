@@ -1,4 +1,5 @@
 # andyroo-env
+
 TODO:
 
 
@@ -16,7 +17,7 @@ sudo apt-get install sbt
 * install intellij
 * git private key
 * other:
-** install steam
+ * install steam
 * Add the following to panel:
-** Chrome
-** Steam
+ * Chrome
+ * Steam
